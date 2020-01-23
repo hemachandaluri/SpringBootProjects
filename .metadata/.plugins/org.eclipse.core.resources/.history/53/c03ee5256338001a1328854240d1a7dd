@@ -1,0 +1,14 @@
+package com.example.demo.ServiceImpl;
+
+import org.springframework.stereotype.Service;
+
+import com.example.demo.service.DemoService;
+
+
+public class DemoServiceImpl implements DemoService {
+	
+	public Object getData(Object obj) {
+		return obj;
+	}
+
+}

@@ -1,0 +1,5 @@
+server.port=9090
+spring.jpa.hibernate.ddl-auto=create
+spring.datasource.url=jbdc:msql://localhost:3306/hibernate_demo
+spring.datasource.username=root
+spring.datasource.password=Hema1993
